@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+*.log
+node_modules/
+.private/
+SHOWCASE_PUBLICATION_REVIEW.md
+*_PRIVATE.*
