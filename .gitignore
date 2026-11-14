@@ -6,3 +6,7 @@ node_modules/
 .private/
 SHOWCASE_PUBLICATION_REVIEW.md
 *_PRIVATE.*
+
+# Unselected detail screenshots contain mission identifiers and an example address.
+assets/screenshots/back-office-2.png
+assets/screenshots/back-office-3.png
